@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_SampleMapKitWithAnnotation_SampleMapKitWithAnnotationUITests : NSObject
+@end
+@implementation PodsDummy_Pods_SampleMapKitWithAnnotation_SampleMapKitWithAnnotationUITests
+@end
